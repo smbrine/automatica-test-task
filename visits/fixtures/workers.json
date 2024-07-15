@@ -1,0 +1,1 @@
+[{"model": "visits.worker", "pk": "075f937e-2161-4205-be73-3916ce4d1770", "fields": {"name": "Ivan", "phone": "+79999999999"}}, {"model": "visits.worker", "pk": "fbd00357-9327-4dce-acd1-e945789635a5", "fields": {"name": "Boris", "phone": "+79997777777"}}]
